@@ -1,3 +1,7 @@
 print("Jezreel Dela Santa Noche")
 print("Tanza Boac,Marinduque")
 print("September 16, 2003")
+print("Marinduque State College")
+print("Bachelor of Science in Information Technology")
+print("2nd Year")
+print("Class C")
